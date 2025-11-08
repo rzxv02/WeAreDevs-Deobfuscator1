@@ -1,1 +1,1 @@
-# WeAreDevs-Deobfuscator1
+# WeAreDevs-Deobfuscator
